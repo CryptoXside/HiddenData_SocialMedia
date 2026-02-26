@@ -1,4 +1,4 @@
-# HiddenDataSocialMedia
+# Hidden_Data_Social_Media
 🕵️ **Hidden data on social media**
 
 ➖
